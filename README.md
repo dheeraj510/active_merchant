@@ -168,7 +168,7 @@ The [ActiveMerchant Wiki](http://github.com/Shopify/active_merchant/wikis) conta
 * [Sallie Mae](http://www.salliemae.com/) - US
 * [Samurai](https://samurai.feefighters.com) - US
 * [SecureNet](http://www.securenet.com/) - US
-* [SecurePay](http://www.securepay.com/) - US, CA, GB, AU
+* [SecurePay](https://www.securepay.com/) - US, CA, GB, AU
 * [SecurePayTech](http://www.securepaytech.com/) - NZ
 * [SkipJack](http://www.skipjack.com/) - US, CA
 * [Spreedly](https://spreedly.com) - AD, AE, AT, AU, BD, BE, BG, BN, CA, CH, CY, CZ, DE, DK, EE, EG, ES, FI, FR, GB, GI, GR, HK, HU, ID, IE, IL, IM, IN, IS, IT, JO, KW, LB, LI, LK, LT, LU, LV, MC, MT, MU, MV, MX, MY, NL, NO, NZ, OM, PH, PL, PT, QA, RO, SA, SE, SG, SI, SK, SM, TR, TT, UM, US, VA, VN, ZA
